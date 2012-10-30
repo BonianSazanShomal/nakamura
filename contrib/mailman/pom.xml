@@ -15,7 +15,7 @@
   <parent>
     <groupId>org.sakaiproject.nakamura</groupId>
     <artifactId>base</artifactId>
-    <version>1.4.3-SNAPSHOT</version>
+    <version>1.4.3</version>
   </parent>
   <artifactId>org.sakaiproject.nakamura.mailman</artifactId>
   <packaging>bundle</packaging>
@@ -62,13 +62,13 @@
     <dependency>
       <groupId>org.sakaiproject.nakamura</groupId>
       <artifactId>org.sakaiproject.nakamura.utils</artifactId>
-      <version>1.4.3-SNAPSHOT</version>
+      <version>1.4.3</version>
       <scope>provided</scope>
     </dependency>
     <dependency>
       <groupId>org.sakaiproject.nakamura</groupId>
       <artifactId>org.sakaiproject.nakamura.personal</artifactId>
-      <version>1.4.3-SNAPSHOT</version>
+      <version>1.4.3</version>
       <scope>provided</scope>
     </dependency>
     <dependency>
@@ -128,23 +128,23 @@
     <dependency>
       <groupId>org.sakaiproject.nakamura</groupId>
       <artifactId>org.sakaiproject.nakamura.testutils</artifactId>
-      <version>1.4.3-SNAPSHOT</version>
+      <version>1.4.3</version>
       <scope>test</scope>
     </dependency>
     <dependency>
       <groupId>org.sakaiproject.nakamura</groupId>
       <artifactId>org.sakaiproject.nakamura.proxy</artifactId>
-      <version>1.4.3-SNAPSHOT</version>
+      <version>1.4.3</version>
     </dependency>
     <dependency>
       <groupId>org.sakaiproject.nakamura</groupId>
       <artifactId>org.sakaiproject.nakamura.messaging</artifactId>
-      <version>1.4.3-SNAPSHOT</version>
+      <version>1.4.3</version>
     </dependency>
     <dependency>
       <groupId>org.sakaiproject.nakamura</groupId>
       <artifactId>org.sakaiproject.nakamura.user.api</artifactId>
-      <version>1.4.3-SNAPSHOT</version>
+      <version>1.4.3</version>
     </dependency>
     <dependency>
       <groupId>commons-httpclient</groupId>
