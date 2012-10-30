@@ -4,7 +4,7 @@
   <parent>
     <artifactId>base</artifactId>
     <groupId>org.sakaiproject.nakamura</groupId>
-    <version>1.4.3-SNAPSHOT</version>
+    <version>1.4.3</version>
     <relativePath>../../../pom.xml</relativePath>
   </parent>
   <artifactId>org.sakaiproject.nakamura.profile.impl</artifactId>
@@ -25,7 +25,7 @@
             <Bundle-Category> sakai-nakamura </Bundle-Category>
             <Private-Package> org.sakaiproject.nakamura.profile.* </Private-Package>
             <Embed-Transitive>true</Embed-Transitive>
-            <Embed-Dependency/>
+            <Embed-Dependency />
           </instructions>
         </configuration>
       </plugin>
@@ -71,35 +71,35 @@
     <dependency>
       <groupId>org.sakaiproject.nakamura</groupId>
       <artifactId>org.sakaiproject.nakamura.profile.api</artifactId>
-      <version>1.4.3-SNAPSHOT</version>
+      <version>1.4.3</version>
     </dependency>
     <dependency>
       <groupId>org.sakaiproject.nakamura</groupId>
       <artifactId>org.sakaiproject.nakamura.doc</artifactId>
-      <version>1.4.3-SNAPSHOT</version>
+      <version>1.4.3</version>
     </dependency>
     <dependency>
       <groupId>org.sakaiproject.nakamura</groupId>
       <artifactId>org.sakaiproject.nakamura.utils</artifactId>
-      <version>1.4.3-SNAPSHOT</version>
+      <version>1.4.3</version>
       <scope>provided</scope>
     </dependency>
     <dependency>
       <groupId>org.sakaiproject.nakamura</groupId>
       <artifactId>org.sakaiproject.nakamura.resource</artifactId>
-      <version>1.4.3-SNAPSHOT</version>
+      <version>1.4.3</version>
       <scope>provided</scope>
     </dependency>
     <dependency>
       <groupId>org.sakaiproject.nakamura</groupId>
       <artifactId>org.sakaiproject.nakamura.http.api</artifactId>
-      <version>1.4.3-SNAPSHOT</version>
+      <version>1.4.3</version>
       <scope>provided</scope>
     </dependency>
     <dependency>
       <groupId>org.sakaiproject.nakamura</groupId>
       <artifactId>org.sakaiproject.nakamura.connections</artifactId>
-      <version>1.4.3-SNAPSHOT</version>
+      <version>1.4.3</version>
       <scope>provided</scope>      
     </dependency>    
     <dependency>
@@ -109,7 +109,7 @@
     <dependency>
       <groupId>org.sakaiproject.nakamura</groupId>
       <artifactId>org.sakaiproject.nakamura.user.api</artifactId>
-      <version>1.4.3-SNAPSHOT</version>
+      <version>1.4.3</version>
       <scope>provided</scope>
     </dependency>
     <!--  OSGI  -->

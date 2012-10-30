@@ -21,7 +21,7 @@
   <parent>
     <groupId>org.sakaiproject.nakamura</groupId>
     <artifactId>base</artifactId>
-    <version>1.4.3-SNAPSHOT</version>
+    <version>1.4.3</version>
     <relativePath>../../pom.xml</relativePath>
   </parent>
   <artifactId>org.sakaiproject.nakamura.locking</artifactId>
@@ -45,7 +45,7 @@
             <Private-Package>org.sakaiproject.nakamura.locking.*</Private-Package>
             <DynamicImport-Package>sun.misc.*</DynamicImport-Package>
             <Embed-Transitive>true</Embed-Transitive>
-            <Embed-Dependency/>
+            <Embed-Dependency />
           </instructions>
         </configuration>
       </plugin>
@@ -72,7 +72,7 @@
     <dependency>
       <groupId>org.sakaiproject.nakamura</groupId>
       <artifactId>org.sakaiproject.nakamura.memory</artifactId>
-      <version>1.4.3-SNAPSHOT</version>
+      <version>1.4.3</version>
     </dependency>
     <dependency>
       <groupId>org.slf4j</groupId>

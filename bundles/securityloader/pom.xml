@@ -15,7 +15,7 @@
   <parent>
     <groupId>org.sakaiproject.nakamura</groupId>
     <artifactId>base</artifactId>
-    <version>1.4.3-SNAPSHOT</version>
+    <version>1.4.3</version>
     <relativePath>../../pom.xml</relativePath>
   </parent>
   <artifactId>org.sakaiproject.nakamura.securityloader</artifactId>
@@ -46,7 +46,7 @@
     <dependency>
       <groupId>org.sakaiproject.nakamura</groupId>
       <artifactId>org.sakaiproject.nakamura.utils</artifactId>
-      <version>1.4.3-SNAPSHOT</version>
+      <version>1.4.3</version>
       <scope>provided</scope>
     </dependency>
     <dependency>
@@ -72,7 +72,7 @@
     <dependency>
       <groupId>org.sakaiproject.nakamura</groupId>
       <artifactId>org.sakaiproject.nakamura.user.api</artifactId>
-      <version>1.4.3-SNAPSHOT</version>
+      <version>1.4.3</version>
       <scope>provided</scope>
     </dependency>
     <dependency>

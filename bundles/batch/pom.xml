@@ -15,7 +15,7 @@
   <parent>
     <groupId>org.sakaiproject.nakamura</groupId>
     <artifactId>base</artifactId>
-    <version>1.4.3-SNAPSHOT</version>
+    <version>1.4.3</version>
     <relativePath>../../pom.xml</relativePath>
   </parent>
   <artifactId>org.sakaiproject.nakamura.batch</artifactId>
@@ -62,17 +62,17 @@
   	<dependency>
       <groupId>org.sakaiproject.nakamura</groupId>
       <artifactId>org.sakaiproject.nakamura.utils</artifactId>
-      <version>1.4.3-SNAPSHOT</version>
+      <version>1.4.3</version>
     </dependency>
   	<dependency>
       <groupId>org.sakaiproject.nakamura</groupId>
       <artifactId>org.sakaiproject.nakamura.templates</artifactId>
-      <version>1.4.3-SNAPSHOT</version>
+      <version>1.4.3</version>
     </dependency>
     <dependency>
       <groupId>org.sakaiproject.nakamura</groupId>
       <artifactId>org.sakaiproject.nakamura.http.api</artifactId>
-      <version>1.4.3-SNAPSHOT</version>
+      <version>1.4.3</version>
     </dependency>
   	<dependency>
       <groupId>org.apache.sling</groupId>
@@ -114,37 +114,37 @@
   	<dependency>
     	<groupId>org.sakaiproject.nakamura</groupId>
     	<artifactId>org.sakaiproject.nakamura.resource</artifactId>
-	<version>1.4.3-SNAPSHOT</version>
+	<version>1.4.3</version>
       <scope>provided</scope>
     </dependency>
     <dependency>
       <groupId>org.sakaiproject.nakamura</groupId>
       <artifactId>org.sakaiproject.nakamura.tika</artifactId>
-      <version>1.0.1.4.3-SNAPSHOT</version>
+      <version>1.0.1.4.3</version>
       <scope>provided</scope>
     </dependency>
     <dependency>
       <groupId>org.sakaiproject.nakamura</groupId>
       <artifactId>org.sakaiproject.nakamura.memory</artifactId>
-      <version>1.4.3-SNAPSHOT</version>
+      <version>1.4.3</version>
       <scope>provided</scope>
     </dependency>
     <dependency>
        <groupId>org.sakaiproject.nakamura</groupId>
        <artifactId>org.sakaiproject.nakamura.doc</artifactId>
-       <version>1.4.3-SNAPSHOT</version>
+       <version>1.4.3</version>
     </dependency>
   	<dependency>
        <groupId>org.sakaiproject.nakamura</groupId>
        <artifactId>org.sakaiproject.nakamura.jetty-config</artifactId>
-       <version>1.4.3-SNAPSHOT</version>
+       <version>1.4.3</version>
     </dependency>
     
     <!-- Test dependencies -->
     <dependency>
        <groupId>org.sakaiproject.nakamura</groupId>
        <artifactId>org.sakaiproject.nakamura.testutils</artifactId>
-       <version>1.4.3-SNAPSHOT</version>
+       <version>1.4.3</version>
        <scope>test</scope>
     </dependency>
     <dependency>

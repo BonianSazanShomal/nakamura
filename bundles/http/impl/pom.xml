@@ -18,7 +18,7 @@
   <parent>
     <groupId>org.sakaiproject.nakamura</groupId>
     <artifactId>base</artifactId>
-    <version>1.4.3-SNAPSHOT</version>
+    <version>1.4.3</version>
     <relativePath>../../../pom.xml</relativePath>
   </parent>
   <artifactId>org.sakaiproject.nakamura.http.impl</artifactId>
@@ -65,17 +65,17 @@
     <dependency>
       <groupId>org.sakaiproject.nakamura</groupId>
       <artifactId>org.sakaiproject.nakamura.memory</artifactId>
-      <version>1.4.3-SNAPSHOT</version>
+      <version>1.4.3</version>
     </dependency>
     <dependency>
       <groupId>org.sakaiproject.nakamura</groupId>
       <artifactId>org.sakaiproject.nakamura.http.api</artifactId>
-      <version>1.4.3-SNAPSHOT</version>
+      <version>1.4.3</version>
     </dependency>
     <dependency>
       <groupId>org.sakaiproject.nakamura</groupId>
       <artifactId>org.sakaiproject.nakamura.auth.trusted</artifactId>
-      <version>1.4.3-SNAPSHOT</version>
+      <version>1.4.3</version>
     </dependency>
     <dependency>
       <groupId>org.apache.sling</groupId>
@@ -92,7 +92,7 @@
     <dependency>
       <groupId>org.sakaiproject.nakamura</groupId>
       <artifactId>org.sakaiproject.nakamura.jetty-config</artifactId>
-      <version>1.4.3-SNAPSHOT</version>
+      <version>1.4.3</version>
     </dependency>
     <dependency>
       <groupId>javax.servlet</groupId>

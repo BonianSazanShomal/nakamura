@@ -3,7 +3,7 @@
   <parent>
     <groupId>org.sakaiproject.nakamura</groupId>
     <artifactId>base</artifactId>
-    <version>1.4.3-SNAPSHOT</version>
+    <version>1.4.3</version>
     <relativePath>../../pom.xml</relativePath>
   </parent>
   <modelVersion>4.0.0</modelVersion>
@@ -77,25 +77,25 @@
     <dependency>
       <groupId>org.sakaiproject.nakamura</groupId>
       <artifactId>org.sakaiproject.nakamura.personal</artifactId>
-      <version>1.4.3-SNAPSHOT</version>
+      <version>1.4.3</version>
       <scope>provided</scope>
     </dependency>
     <dependency>
       <groupId>org.sakaiproject.nakamura</groupId>
       <artifactId>org.sakaiproject.nakamura.user.api</artifactId>
-      <version>1.4.3-SNAPSHOT</version>
+      <version>1.4.3</version>
       <scope>provided</scope>
     </dependency>
     <dependency>
       <groupId>org.sakaiproject.nakamura</groupId>
       <artifactId>org.sakaiproject.nakamura.search.api</artifactId>
-      <version>1.4.3-SNAPSHOT</version>
+      <version>1.4.3</version>
       <scope>provided</scope>
     </dependency>
     <dependency>
       <groupId>org.sakaiproject.nakamura</groupId>
       <artifactId>org.sakaiproject.nakamura.files.api</artifactId>
-      <version>1.4.3-SNAPSHOT</version>
+      <version>1.4.3</version>
       <scope>provided</scope>
     </dependency>
     <dependency>
@@ -105,7 +105,7 @@
     <dependency>
       <groupId>org.sakaiproject.nakamura</groupId>
       <artifactId>org.sakaiproject.nakamura.tika</artifactId>
-      <version>1.0.1.4.3-SNAPSHOT</version>
+      <version>1.0.1.4.3</version>
       <scope>provided</scope>
     </dependency>
     <dependency>
@@ -134,7 +134,7 @@
     <dependency>
       <groupId>org.sakaiproject.nakamura</groupId>
       <artifactId>org.sakaiproject.nakamura.testutils</artifactId>
-      <version>1.4.3-SNAPSHOT</version>
+      <version>1.4.3</version>
       <scope>provided</scope>
     </dependency>
       <dependency>

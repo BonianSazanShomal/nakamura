@@ -22,12 +22,12 @@
   <parent>
     <groupId>org.sonatype.oss</groupId>
     <artifactId>oss-parent</artifactId>
-    <relativePath/>
+    <relativePath />
     <version>7</version>
   </parent>
   <groupId>org.sakaiproject.nakamura</groupId>
   <artifactId>base</artifactId>
-  <version>1.4.3-SNAPSHOT</version>
+  <version>1.4.3</version>
   <packaging>pom</packaging>
   <name>Sakai Nakamura Project</name>
   <description> Sakai Nakamura is an OSGi server built ontop of Apache Sling, supporting Sakai 3. </description>
@@ -501,7 +501,7 @@
                     <versionRange>[1.7.0,)</versionRange>
                     <goals><goal>scr</goal></goals>
                   </pluginExecutionFilter>
-                  <action><ignore/></action>
+                  <action><ignore /></action>
                 </pluginExecution>
                 <pluginExecution>
                   <pluginExecutionFilter>
@@ -510,7 +510,7 @@
                     <versionRange>[2.1.0,)</versionRange>
                     <goals><goal>prepare-package</goal></goals>
                   </pluginExecutionFilter>
-                  <action><ignore/></action>
+                  <action><ignore /></action>
                 </pluginExecution>
                 <pluginExecution>
                   <pluginExecutionFilter>
@@ -522,7 +522,7 @@
                       <goal>unpack-dependencies</goal>
                     </goals>
                   </pluginExecutionFilter>
-                  <action><ignore/></action>
+                  <action><ignore /></action>
                 </pluginExecution>
                 <pluginExecution>
                   <pluginExecutionFilter>
@@ -531,7 +531,7 @@
                     <versionRange>[1.4,)</versionRange>
                     <goals><goal>run</goal></goals>
                   </pluginExecutionFilter>
-                  <action><ignore/></action>
+                  <action><ignore /></action>
                 </pluginExecution>
               </pluginExecutions>
             </lifecycleMappingMetadata>
@@ -1298,7 +1298,7 @@
       <dependency>
         <groupId>org.sakaiproject.nakamura</groupId>
         <artifactId>org.sakaiproject.nakamura.solr</artifactId>
-        <version>1.4.4-SNAPSHOT</version>
+        <version>1.4.4</version>
         <scope>provided</scope>
       </dependency>
     </dependencies>

@@ -15,7 +15,7 @@
   <parent>
     <groupId>org.sakaiproject.nakamura</groupId>
     <artifactId>base</artifactId>
-    <version>1.4.3-SNAPSHOT</version>
+    <version>1.4.3</version>
     <relativePath>../../../pom.xml</relativePath>
   </parent>
   <artifactId>org.sakaiproject.nakamura.user.api</artifactId>
@@ -73,7 +73,7 @@
                     <versionRange>[1.7.2,)</versionRange>
                     <goals><goal>scr</goal></goals>
                   </pluginExecutionFilter>
-                  <action><ignore/></action>
+                  <action><ignore /></action>
                 </pluginExecution>
               </pluginExecutions>
             </lifecycleMappingMetadata>
